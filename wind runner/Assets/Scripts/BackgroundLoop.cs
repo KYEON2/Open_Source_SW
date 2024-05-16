@@ -6,6 +6,8 @@ public class BackgroundLoop : MonoBehaviour {
 
     private void Awake() {
         // 가로 길이를 측정하는 처리
+        BoxCollider2D backgroundCollider = GetComponent<BoxCollider2D>();
+        width = backgroundCollider.size.x;
     }
 
     private void Update() {
