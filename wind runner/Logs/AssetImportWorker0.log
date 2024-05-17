@@ -623,3 +623,24 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2476.882828 seconds.
+  path: Assets/Scripts/BackgroundLoop.cs
+  artifactKey: Guid(ad1460fb9aea94c0398043cfb654e4a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BackgroundLoop.cs using Guid(ad1460fb9aea94c0398043cfb654e4a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.002605 seconds  code(4) message(Build asset version error: assets/scripts/backgroundloop.cs in SourceAssetDB has modification time of '2021-10-27T09:32:26Z' while content on disk has modification time of '2024-05-16T11:23:08Z')
+  ERROR: Build asset version error: assets/scripts/backgroundloop.cs in SourceAssetDB has modification time of '2021-10-27T09:32:26Z' while content on disk has modification time of '2024-05-16T11:23:08Z'
+========================================================================
+Received Import Request.
+  Time since last request: 8.461837 seconds.
+  path: Assets/Scripts/ScrollingObject.cs
+  artifactKey: Guid(649efa25ad21f497fb803a5b36ada1e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScrollingObject.cs using Guid(649efa25ad21f497fb803a5b36ada1e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000380 seconds  code(4) message(Build asset version error: assets/scripts/scrollingobject.cs in SourceAssetDB has modification time of '2021-10-27T09:32:26Z' while content on disk has modification time of '2024-05-16T11:44:03Z')
+  ERROR: Build asset version error: assets/scripts/scrollingobject.cs in SourceAssetDB has modification time of '2021-10-27T09:32:26Z' while content on disk has modification time of '2024-05-16T11:44:03Z'
+========================================================================
+Received Import Request.
+  Time since last request: 781.190051 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(85f08caec5cd247478bf53a4b7819f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(85f08caec5cd247478bf53a4b7819f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000693 seconds  code(4) message(Build asset version error: assets/scripts/playercontroller.cs in SourceAssetDB has modification time of '2024-05-16T10:34:13Z' while content on disk has modification time of '2024-05-16T11:38:48Z')
+  ERROR: Build asset version error: assets/scripts/playercontroller.cs in SourceAssetDB has modification time of '2024-05-16T10:34:13Z' while content on disk has modification time of '2024-05-16T11:38:48Z'
